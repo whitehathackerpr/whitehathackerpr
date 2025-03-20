@@ -56,9 +56,6 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
 
 ## Experience & Leadership
 
-- **CTO & Head of Engineering, Waanverse Labs Inc.**  
-  Leading innovative projects in cybersecurity, AI, and full-stack development with strategic planning and technical excellence.
-  
 - **Founder, 4codex Technologies**  
   Pioneering impactful software solutions and nurturing tech education to empower communities.
   
