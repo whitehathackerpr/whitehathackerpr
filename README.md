@@ -1,4 +1,4 @@
-# Hi there, I'm Akandwanaho Ivan Alvin (Alvin) 👋
+# Hi there, I'm Akandwanaho Ivan (Alvin) 👋
 
 <div align="center">
   <a href="https://www.linkedin.com/in/the4codex" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
