@@ -1,34 +1,58 @@
 # Hi there, I'm Akandwanaho Ivan (Alvin) 👋
 
+<!-- Animated gradient banner -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/the4codex" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://m.4codex.com/" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat-square" alt="Website Badge" />
-  </a>
-  <a href="https://github.com/whitehathackerpr" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
-    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=flat-square" alt="GitHub Badge" />
-  </a>
+  <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#00d2ff">
+          <animate attributeName="stop-color" values="#00d2ff;#3a7bd5;#00d2ff" dur="3s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#3a7bd5">
+          <animate attributeName="stop-color" values="#3a7bd5;#00d2ff;#3a7bd5" dur="3s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100" fill="url(#grad)"></rect>
+  </svg>
 </div>
 
+<!-- Futuristic Title Overlay -->
+<div align="center" style="margin-top: -60px;">
+  <h1 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">
+    Welcome to my futuristic profile
+  </h1>
+</div>
+
+<!-- Animated Social Links -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/the4codex" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://m.4codex.com/" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" alt="Website Badge" />
+  </a>
+  <a href="https://github.com/whitehathackerpr" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
+    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge" alt="GitHub Badge" />
+  </a>
+</div>
 
 ---
 
 ## About Me
 
-I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engineer, Cybersecurity Expert, and Tech Educator from Uganda. I specialize in turning complex problems into simple, elegant solutions through innovative software and secure systems. I currently serve as the **CTO & Head of Engineering at Waanverse Labs Inc.** and am the **Founder of 4codex Technologies**, where I lead cutting-edge projects spanning cybersecurity, AI, and full‑stack development.
+I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engineer, Cybersecurity Expert, and Tech Educator from Uganda. I specialize in turning complex problems into simple, elegant solutions through innovative software and secure systems. I currently serve as the **CTO & Head of Engineering at Waanverse Labs Inc.** and am the **Founder of 4codex Technologies**, where I lead cutting‑edge projects spanning cybersecurity, AI, and full‑stack development.
 
 ---
 
 ## Skills & Expertise
 
-- **Software Engineering:** Python, Java, C#, JavaScript, HTML5, CSS3  
-- **Web Development:** Flask, Django, React.js, Node.js, REST APIs, Bootstrap  
-- **Mobile Development:** Android Studio, Kotlin, Java (with AI Integration)  
-- **Cybersecurity:** Ethical Hacking, Penetration Testing, Network Security  
-- **AI & Data Analysis:** Machine Learning, Data Visualization, Predictive Analytics  
-- **DevOps & Tools:** Git, Docker, AWS, cPanel
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Python%20|%20Java%20|%20CSharp-blue?style=for-the-badge" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Web%20Development-React%20|%20Node.js%20|%20Flask-orange?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking%20|%20PenTesting-red?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Data-Machine%20Learning%20|%20Data%20Viz-brightgreen?style=for-the-badge" alt="AI & Data" />
+</div>
 
 ---
 
