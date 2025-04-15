@@ -30,19 +30,7 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Stats Cards -->
-  <a href="https://github.com/whitehathackerpr">
-    <img alt="Alvin's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whitehathackerpr&show_icons=true&theme=tokyonight&hide_border=true" height="192px"/>
-  </a>
-  <a href="https://github.com/whitehathackerpr">
-    <img alt="Alvin's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whitehathackerpr&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
-  </a>
-  <br/>
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/whitehathackerpr">
-    <img alt="Alvin's streak" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=whitehathackerpr&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitehathackerpr&bg_color=0D1117&color=00d2ff&line=3a7bd5&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
 ## 👨‍💻 About Me
@@ -76,6 +64,11 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Ethical_Hacking-4638DE?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Ethical Hacking" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehathackerpr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whitehathackerpr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="192px"/>
+</div>
 
 ## 🏆 Featured Projects
 
@@ -188,16 +181,22 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
 ## 🏅 Achievements
 
 <div align="center">
-  <a href="https://github.com/whitehathackerpr">
-    <img src="https://github-profile-trophy.vercel.app/?username=whitehathackerpr&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Alvin's Trophies" />
-  </a>
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=whitehathackerpr&theme=nord&no-frame=true&margin-w=15&column=7" alt="Trophy" />
+</div>
+
+<div align="center">
   <p>
     <b>5+ Years</b> of professional experience<br>
     <b>30+ Projects</b> successfully completed<br>
     <b>20+ Clients</b> served worldwide<br>
     <b>5+ Awards</b> recognizing excellence in technology and innovation
   </p>
+</div>
+
+## 📊 This Week I Spent My Time On
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitehathackerpr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📫 Let's Connect
