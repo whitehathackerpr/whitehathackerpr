@@ -216,18 +216,31 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
 <div align="center">
   <p>I'm always excited to connect with fellow developers, tech enthusiasts, and professionals.<br>Feel free to reach out for collaboration, mentorship, or just a chat about technology!</p>
   
-  <a href="https://www.linkedin.com/in/the4codex">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+  <!-- Updated Social Contact Icons -->
+  <a href="https://www.linkedin.com/in/the4codex" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="70" height="70"/>
   </a>
-  <a href="mailto:alvin@4codex.com">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+  <a href="https://github.com/whitehathackerpr" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" width="70" height="70"/>
+  </a>
+  <a href="https://www.tiktok.com/@alvinugking" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" width="70" height="70"/>
+  </a>
+  <a href="mailto:alvin@4codex.com" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail.png" width="70" height="70"/>
+  </a>
+  <a href="https://www.instagram.com/alvin_waho" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width="70" height="70"/>
   </a>
 </div>
 
 <div align="center">
+  <!-- SVG Divider -->
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-  <p>"Turning Complex Problems into Simple Solutions"</p>
-  <p>© 2025 Akandwanaho Ivan Alvin. All Rights Reserved</p>
+  
+  <!-- Quote & Copyright -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Turning%20Complex%20Problems%20into%20Simple%20Solutions&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <p style="font-size: 16px; font-weight: bold;">© 2025 Akandwanaho Ivan Alvin. All Rights Reserved</p>
 </div>
 
 
