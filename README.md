@@ -4,11 +4,13 @@
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Cybersecurity+Expert;Tech+Educator;CTO+%26+Founder;Innovative+Problem+Solver" alt="Typing SVG" /></a>
   
-  <!-- Animated Wave -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893c798fcd3b/images/wave.svg" width="100%">
+  <!-- Animated Wave - Updated with reliable version -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=whitehathackerpr&style=for-the-badge&color=00d2ff" alt="Profile Views" />
+  <!-- Profile Views Counter - Updated with reliable version -->
+  <a href="https://github.com/whitehathackerpr">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=whitehathackerpr.whitehathackerpr&" alt="Profile Views"/>
+  </a>
   
   <!-- Social Links with Custom Animations -->
   <p>
