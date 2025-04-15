@@ -208,8 +208,9 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
 ## 📊 This Week I Spent My Time On
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitehathackerpr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=whitehathackerpr&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" alt="WakaTime Stats" />
 </div>
+
 
 ## 📫 Let's Connect
 
