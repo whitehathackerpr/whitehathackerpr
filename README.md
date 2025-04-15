@@ -196,6 +196,7 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
   <img src="https://github-profile-trophy.vercel.app/?username=whitehathackerpr&theme=nord&no-frame=true&margin-w=15&column=7" alt="Trophy" />
 </div>
 
+
 <div align="center">
   <p>
     <b>5+ Years</b> of professional experience<br>
