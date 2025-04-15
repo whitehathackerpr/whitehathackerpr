@@ -12,16 +12,26 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=whitehathackerpr.whitehathackerpr&" alt="Profile Views"/>
   </a>
   
-  <!-- Social Links with Custom Animations -->
+  <!-- Social Media & Professional Platforms -->
+  <h3>Connect With Me</h3>
   <p>
     <a href="https://www.linkedin.com/in/the4codex" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Ivan_Akandwanaho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/whitehathackerpr" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-whitehathackerpr-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.tiktok.com/@alvinugking" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-@alvinugking-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    </a>
+    <a href="https://www.instagram.com/alvin_waho" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@alvin__waho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://orcid.org/0009-0000-9277-1547" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-0009--0000--9277--1547-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
     </a>
     <a href="mailto:alvin@4codex.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-alvin@4codex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
   
