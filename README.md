@@ -1,114 +1,138 @@
 # Hi there, I'm Akandwanaho Ivan (Alvin) 👋
 
-<!-- Animated gradient banner -->
 <div align="center">
-  <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#00d2ff">
-          <animate attributeName="stop-color" values="#00d2ff;#3a7bd5;#00d2ff" dur="3s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#3a7bd5">
-          <animate attributeName="stop-color" values="#3a7bd5;#00d2ff;#3a7bd5" dur="3s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100" fill="url(#grad)"></rect>
-  </svg>
-</div>
-
-<!-- Futuristic Title Overlay -->
-<div align="center" style="margin-top: -60px;">
-  <h1 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">
-    Welcome to my futuristic profile
-  </h1>
-</div>
-
-<!-- Animated Social Links -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/the4codex" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://m.4codex.com/" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" alt="Website Badge" />
-  </a>
-  <a href="https://github.com/whitehathackerpr" target="_blank" style="display:inline-block; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'">
-    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge" alt="GitHub Badge" />
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Cybersecurity+Expert;Tech+Educator;CTO+%26+Founder;Innovative+Problem+Solver" alt="Typing SVG" /></a>
+  
+  <!-- Animated Wave -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893c798fcd3b/images/wave.svg" width="100%">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=whitehathackerpr&style=for-the-badge&color=00d2ff" alt="Profile Views" />
+  
+  <!-- Social Links with Custom Animations -->
+  <p>
+    <a href="https://www.linkedin.com/in/the4codex" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://m.4codex.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/whitehathackerpr" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:alvin@4codex.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  
+  <!-- Spotify Now Playing -->
+  <a href="https://open.spotify.com/user/your-spotify-id">
+    <img src="https://novatorem-nu-seven.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
   </a>
 </div>
-
----
-
-## About Me
-
-I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engineer, Cybersecurity Expert, and Tech Educator from Uganda. I specialize in turning complex problems into simple, elegant solutions through innovative software and secure systems. I currently serve as the **CTO & Head of Engineering at Waanverse Labs Inc.** and am the **Founder of 4codex Technologies**, where I lead cutting‑edge projects spanning cybersecurity, AI, and full‑stack development.
-
----
-
-## Skills & Expertise
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Python%20|%20Java%20|%20CSharp-blue?style=for-the-badge" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Web%20Development-React%20|%20Node.js%20|%20Flask-orange?style=for-the-badge" alt="Web Development" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking%20|%20PenTesting-red?style=for-the-badge" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Data-Machine%20Learning%20|%20Data%20Viz-brightgreen?style=for-the-badge" alt="AI & Data" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitehathackerpr&bg_color=0D1117&color=00d2ff&line=3a7bd5&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
----
+## 👨‍💻 About Me
 
-## Featured Projects
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY3MjQzMzI5YTRjZTU3NGE5MTlkNGM1YmJiM2JmNjE0YzNlMWQ5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- **AI Energy Efficiency Tool:**  
-  An AI-powered tool providing sustainable energy insights by leveraging African building data.
+I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engineer, Cybersecurity Expert, and Tech Educator from Uganda. I specialize in turning complex problems into simple, elegant solutions through innovative software and secure systems. 
+
+- 🔭 **Currently:** CTO & Head of Engineering at Waanverse Labs Inc.
+- 🌱 **Founded:** 4codex Technologies
+- 👯 **Leading:** Cutting‑edge projects in cybersecurity, AI, and full‑stack development
+- 🚀 **Passionate about:** Empowering communities through technology
+- 💬 **Ask me about:** Software Engineering, Cybersecurity, AI, Leadership
+
+<br>
+
+## 🛠️ Skills & Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-4638DE?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Ethical Hacking" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehathackerpr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whitehathackerpr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="192px"/>
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">AI Energy Efficiency Tool</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Energy Efficiency Tool" width="100"/>
+          </a>
+          <p align="center">
+            An AI-powered tool providing sustainable energy insights by leveraging African building data.
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">BizManage Pro</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.icons8.com/color/96/000000/business.png" alt="BizManage Pro" width="100"/>
+          </a>
+          <p align="center">
+            A comprehensive business management system featuring advanced analytics, stock control, and predictive insights.
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">2K Restaurant</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.icons8.com/color/96/000000/restaurant.png" alt="2K Restaurant" width="100"/>
+          </a>
+          <p align="center">
+            A modern restaurant management platform designed for streamlined operations and enhanced customer experiences.
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">BKK Pharmacy</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.icons8.com/color/96/000000/pharmacy-shop.png" alt="BKK Pharmacy" width="100"/>
+          </a>
+          <p align="center">
+            A robust system to streamline pharmacy operations, including prescriptions and inventory management.
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💻 Code Samples
+
+<details>
+  <summary><b>Python - Neural Network Model</b></summary>
   
-- **BizManage Pro:**  
-  A comprehensive business management system featuring advanced analytics, stock control, and predictive insights.
-  
-- **2K Restaurant:**  
-  A modern restaurant management platform designed for streamlined operations and enhanced customer experiences.
-  
-- **OM SAI Hardware:**  
-  An efficient inventory management solution for hardware supplies ensuring seamless tracking and reporting.
-  
-- **BKK Pharmacy:**  
-  A robust system to streamline pharmacy operations, including prescriptions and inventory management.
-  
-- **City Star Supermarket:**  
-  An intuitive management tool for supermarkets with features like inventory control and sales analytics.
-
----
-
-## Experience & Leadership
-
-- **Founder, 4codex Technologies**  
-  Pioneering impactful software solutions and nurturing tech education to empower communities.
-  
-- **Tech Educator & Community Leader**  
-  Actively sharing technical insights through workshops and tutorials. Previously served as a district youth chairperson in Nakasongola and as a student leader at Makerere University.
-
----
-
-## Tech Stack
-
-**Languages:**  
-Python • JavaScript • Java • PHP • C# • SQL
-
-**Frameworks & Libraries:**  
-React • Node.js • Angular • Laravel • Firebase • TensorFlow
-
-**Tools & Platforms:**  
-GitHub • Docker • AWS • Android • cPanel
-
-**Cybersecurity:**  
-Penetration Testing • Network Security • Ethical Hacking
-
----
-
-## Code Samples
-
-Here's a glimpse of my work in multiple languages:
-
-- **Python:**
   ```python
   def create_model():
       model = Sequential([
@@ -126,52 +150,79 @@ Here's a glimpse of my work in multiple languages:
       return model
   
   model = create_model()
+  ```
+</details>
 
-- **C#:**
-```csharp
-using System;
+<details>
+  <summary><b>C# - Hello World Example</b></summary>
+  
+  ```csharp
+  using System;
 
-namespace HelloWorld {
-    class Program {
-        static void Main(string[] args) {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
-```
-- **Java:**
+  namespace HelloWorld {
+      class Program {
+          static void Main(string[] args) {
+              Console.WriteLine("Hello, World!");
+          }
+      }
+  }
+  ```
+</details>
+
+<details>
+  <summary><b>Java - Hello World Example</b></summary>
+  
   ```java
   public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
   }
+  ```
+</details>
 
-## Awards & Achievements
+## 🏅 Achievements
 
-**5+ Years of professional experience**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=whitehathackerpr&theme=nord&no-frame=true&margin-w=15&column=7" alt="Trophy" />
+</div>
 
-**30+ Projects successfully completed**
+<div align="center">
+  <p>
+    <b>5+ Years</b> of professional experience<br>
+    <b>30+ Projects</b> successfully completed<br>
+    <b>20+ Clients</b> served worldwide<br>
+    <b>5+ Awards</b> recognizing excellence in technology and innovation
+  </p>
+</div>
 
-**20+ Clients served worldwide**
+## 📊 This Week I Spent My Time On
 
-**5+ Awards recognizing excellence in technology and innovation**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitehathackerpr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+## 📫 Let's Connect
 
-## Let's Connect
+<div align="center">
+  <p>I'm always excited to connect with fellow developers, tech enthusiasts, and professionals.<br>Feel free to reach out for collaboration, mentorship, or just a chat about technology!</p>
+  
+  <a href="https://www.linkedin.com/in/the4codex">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+  </a>
+  <a href="https://m.4codex.com/">
+    <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_website_web_homepage_home_page-512.png"/>
+  </a>
+  <a href="mailto:alvin@4codex.com">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+  </a>
+</div>
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and professionals. Feel free to reach out for collaboration, mentorship, or just a chat about technology!
-
-LinkedIn: the4codex
-
-Website: m.4codex.com
-
-Email:alvin@4codex.com
-
-"Turning Complex Problems into Simple Solutions"
-
-
-© 2025 Akandwanaho Ivan Alvin. All Rights Reserve
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  <p>"Turning Complex Problems into Simple Solutions"</p>
+  <p>© 2025 Akandwanaho Ivan Alvin. All Rights Reserved</p>
+</div>
 
 
 
