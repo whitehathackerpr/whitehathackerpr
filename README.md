@@ -25,7 +25,7 @@
   
   <!-- Spotify Now Playing - Updated with working version -->
   <a href="https://open.spotify.com/user/31qbkxxsc6fxlkni5pjdv6tmdyuy?si=XJNkrMPaQfK97nTmRHHweA">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qbkxxsc6fxlkni5pjdv6tmdyuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+    <img src="https://novatorem-nu-seven.vercel.app/api/spotify?background_color=0D1117&border_color=ffffff" alt="Spotify Now Playing" width="450" />
   </a>
 </div>
 
