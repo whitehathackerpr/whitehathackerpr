@@ -9,7 +9,7 @@
   
   <!-- Profile Views Counter - Updated with reliable version -->
   <a href="https://github.com/whitehathackerpr">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=whitehathackerpr.whitehathackerpr&" alt="Profile Views"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=whitehathackerpr.whitehathackerpr&" alt="Profile Visits"/>
   </a>
   
   <!-- Social Media & Professional Platforms -->
