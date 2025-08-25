@@ -193,7 +193,7 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
 ## 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whitehathackerpr&theme=nord&no-frame=true&margin-w=15&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=whitehathackerpr&theme=nord&no-frame=true&margin-w=15&column=2" alt="Trophy" />
 </div>
 
 
