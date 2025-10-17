@@ -30,8 +30,8 @@
     <a href="https://orcid.org/0009-0000-9277-1547" target="_blank">
       <img src="https://img.shields.io/badge/ORCID-0009--0000--9277--1547-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
     </a>
-    <a href="mailto:alvin@4codex.com">
-      <img src="https://img.shields.io/badge/Email-alvin@4codex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:alvin@codesphereug.com">
+      <img src="https://img.shields.io/badge/Email-alvin@codesphereug.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
   
@@ -52,7 +52,7 @@
 I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engineer, Cybersecurity Expert, and Tech Educator from Uganda. I specialize in turning complex problems into simple, elegant solutions through innovative software and secure systems. 
 
 - 🔭 **Currently:** CTO & Head of Engineering at Waanverse Labs Inc.
-- 🌱 **Founded:** 4codex Technologies
+- 🌱 **Founded:** CODESPHERE INNOVATIONS (U) LIMITED
 - 👯 **Leading:** Cutting‑edge projects in cybersecurity, AI, and full‑stack development
 - 🚀 **Passionate about:** Empowering communities through technology
 - 💬 **Ask me about:** Software Engineering, Cybersecurity, AI, Leadership
@@ -222,7 +222,7 @@ I'm **Akandwanaho Ivan Alvin**, also known as Alvin—a passionate Software Engi
   <a href="https://www.tiktok.com/@alvinugking" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" width="70" height="70"/>
   </a>
-  <a href="mailto:alvin@4codex.com" target="_blank">
+  <a href="mailto:alvin@codesphereug.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/gmail.png" width="70" height="70"/>
   </a>
   <a href="https://www.instagram.com/alvin_waho" target="_blank">
